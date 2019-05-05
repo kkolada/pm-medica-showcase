@@ -1,0 +1,54 @@
+{
+  "appName": {
+    "full": "PM-Medica",
+    "split": {
+      "pm": "PM",
+      "medica": "Medica"
+    }
+  },
+  "contact": {
+    "title": "Firma",
+    "subtitle": "nici chirurgiczne weterynaryjne",
+    "phoneNr": "+48 665 878 698",
+    "mail": "nicichirurgiczne@onet.pl",
+    "street": "ul. Bema 4 lok. 11",
+    "city": "Kowary",
+    "zipCode": "58-530",
+    "province": "woj. dolnośląskie"
+  },
+  "mainMenu": {
+    "home": "Strona główna",
+    "products": "Produkty",
+    "about": "O nas",
+    "contact": "Kontakt",
+    "cart": "Sklep"
+  },
+  "productsPage": {
+    "title": "Produkty"
+  },
+  "aboutPage": {
+    "title": "O nas"
+  },
+  "contactPage": {
+    "title": "Kontakt"
+  },
+  "footer": {
+    "writeToUs": "Napisz do nas",
+    "subjectPlaceholder": "Temat",
+    "bodyPlaceholder": "Tekst wiadomości",
+    "sendBtn": "Wyślij",
+    "workingHours": "Godziny pracy",
+    "copyright": "Copyright",
+    "reserved": "2019 PM-Medica",
+    "rights": "All rights reserved."
+  },
+  "days": {
+    "mon": "Poniedziałek",
+    "tue": "Wtorek",
+    "wed": "Środa",
+    "th": "Czwartek",
+    "fri": "Piątek",
+    "sat": "Sobota",
+    "sun": "Niedziela"
+  }
+}
